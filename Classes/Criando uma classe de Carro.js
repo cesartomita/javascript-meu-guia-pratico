@@ -25,6 +25,6 @@ class Carro {
 
 const meuCarro = new Carro("Toyota", "Corolla", 2008, 28000);
 
-console.log(meuCarro.mostrarInfo()); // 'Toyota Corolla - 2008'
-console.log(meuCarro.calcularIdade()); // 'O carro tem 16 anos de idade'
-console.log(meuCarro.calcularIpva(5)); // 'O valor do IPVA é: 1400'
+console.log(meuCarro.mostrarInfo());    // 'Toyota Corolla - 2008'
+console.log(meuCarro.calcularIdade());  // 'O carro tem 16 anos de idade'
+console.log(meuCarro.calcularIpva(5));  // 'O valor do IPVA é: 1400'
