@@ -2,7 +2,26 @@
 
 <code>console.log('Hello world!');</code>
 
- ## Classes
+ ## 001 - Variáveis (Variables)
+
+- [Declarando variável usando const](001%20-%20Vari%C3%A1veis%20(Variables)/Declarando%20vari%C3%A1vel%20usando%20const.js)
+- [Declarando variável usando let](001%20-%20Vari%C3%A1veis%20(Variables)/Declarando%20vari%C3%A1vel%20usando%20let.js)
+- [Declarando variável usando var](001%20-%20Vari%C3%A1veis%20(Variables)/Declarando%20vari%C3%A1vel%20usando%20var.js)
+## 002 - Tipos de Dados (Data Types)
+
+- [Tipos primitivos - Booleano](002%20-%20Tipos%20de%20Dados%20(Data%20Types)/Tipos%20primitivos%20-%20Booleano.js)
+- [Tipos primitivos - Número](002%20-%20Tipos%20de%20Dados%20(Data%20Types)/Tipos%20primitivos%20-%20N%C3%BAmero.js)
+- [Tipos primitivos - Símbolo](002%20-%20Tipos%20de%20Dados%20(Data%20Types)/Tipos%20primitivos%20-%20S%C3%ADmbolo.js)
+- [Tipos primitivos - Texto](002%20-%20Tipos%20de%20Dados%20(Data%20Types)/Tipos%20primitivos%20-%20Texto.js)
+- [Tipos primitivos - Undefined e Null](002%20-%20Tipos%20de%20Dados%20(Data%20Types)/Tipos%20primitivos%20-%20Undefined%20e%20Null.js)
+- [Tipos referência - Array](002%20-%20Tipos%20de%20Dados%20(Data%20Types)/Tipos%20refer%C3%AAncia%20-%20Array.js)
+- [Tipos referência - Função](002%20-%20Tipos%20de%20Dados%20(Data%20Types)/Tipos%20refer%C3%AAncia%20-%20Fun%C3%A7%C3%A3o.js)
+- [Tipos referência - Objeto](002%20-%20Tipos%20de%20Dados%20(Data%20Types)/Tipos%20refer%C3%AAncia%20-%20Objeto.js)
+## 003 - Conversão de Tipo (Type Casting)
+
+- [Conversão Explícita (Type Casting Manual)](003%20-%20Convers%C3%A3o%20de%20Tipo%20(Type%20Casting)/Convers%C3%A3o%20Expl%C3%ADcita%20(Type%20Casting%20Manual).js)
+- [Conversão Implícita (Type Coercion)](003%20-%20Convers%C3%A3o%20de%20Tipo%20(Type%20Casting)/Convers%C3%A3o%20Impl%C3%ADcita%20(Type%20Coercion).js)
+## Classes
 
 - [Criando uma classe de Carro](Classes/Criando%20uma%20classe%20de%20Carro.js)
 ## Conexão com SQL Server
