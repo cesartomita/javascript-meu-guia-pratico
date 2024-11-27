@@ -1,10 +1,11 @@
 const sql = require('mssql'); // npm install mssql
+const envObj = require('dotenv').config().parsed; // npm install dotenv
 
 const config = {
-    user: 'sa',
-    password: '123456',
-    server: 'localhost',
-    database: 'DEMO_INJECTION',
+    user: envObj.SQL_SERVER_USER,
+    password: envObj.SQL_SERVER_PASS,
+    server: envObj.SQL_SERVER_SERVER,
+    database: envObj.SQL_SERVER_DATABASE,
     options: {
         trustServerCertificate: true,
     },
