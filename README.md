@@ -24,6 +24,16 @@
 ## 04 - Estruturas de Dados (Data Structures)
 
 - [Coleções Chaveadas (Keyed Collections) - Map](04%20-%20Estruturas%20de%20Dados%20(Data%20Structures)/Cole%C3%A7%C3%B5es%20Chaveadas%20(Keyed%20Collections)%20-%20Map.js)
+- [Diferença de Object e Map - Exemplo com Map](04%20-%20Estruturas%20de%20Dados%20(Data%20Structures)/Diferen%C3%A7a%20de%20Object%20e%20Map%20-%20Exemplo%20com%20Map.js)
+- [Diferença de Object e Map - Exemplo com Object](04%20-%20Estruturas%20de%20Dados%20(Data%20Structures)/Diferen%C3%A7a%20de%20Object%20e%20Map%20-%20Exemplo%20com%20Object.js)
+## 05 - Comparações de Igualdade (Equality Comparisons)
+
+- [Igualdade com conversão de tipo](05%20-%20Compara%C3%A7%C3%B5es%20de%20Igualdade%20(Equality%20Comparisons)/Igualdade%20com%20convers%C3%A3o%20de%20tipo.js)
+- [Igualdade estrita](05%20-%20Compara%C3%A7%C3%B5es%20de%20Igualdade%20(Equality%20Comparisons)/Igualdade%20estrita.js)
+- [Usando operador Object.is](05%20-%20Compara%C3%A7%C3%B5es%20de%20Igualdade%20(Equality%20Comparisons)/Usando%20operador%20Object.is.js)
+## 06 - Loops e Iterações
+
+- [Usando operador for](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for.js)
 ## Classes
 
 - [Criando uma classe de Carro](Classes/Criando%20uma%20classe%20de%20Carro.js)
