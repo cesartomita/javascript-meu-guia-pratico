@@ -33,7 +33,10 @@
 - [Usando operador Object.is](05%20-%20Compara%C3%A7%C3%B5es%20de%20Igualdade%20(Equality%20Comparisons)/Usando%20operador%20Object.is.js)
 ## 06 - Loops e Iterações
 
+- [Usando operador for com continue e break](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for%20com%20continue%20e%20break.js)
+- [Usando operador for of](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for%20of.js)
 - [Usando operador for](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for.js)
+- [Usando operador while](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20while.js)
 ## Classes
 
 - [Criando uma classe de Carro](Classes/Criando%20uma%20classe%20de%20Carro.js)
