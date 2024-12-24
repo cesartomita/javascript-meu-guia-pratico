@@ -37,6 +37,19 @@
 - [Usando operador for of](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for%20of.js)
 - [Usando operador for](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for.js)
 - [Usando operador while](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20while.js)
+## 07 - Estrutura Condicional (Conditional Statements)
+
+- [Usando a condicional if-else](07%20-%20Estrutura%20Condicional%20(Conditional%20Statements)/Usando%20a%20condicional%20if-else.js)
+- [Usando a condicional switch - Uso intencional de Fall-Through](07%20-%20Estrutura%20Condicional%20(Conditional%20Statements)/Usando%20a%20condicional%20switch%20-%20Uso%20intencional%20de%20Fall-Through.js)
+- [Usando a condicional switch](07%20-%20Estrutura%20Condicional%20(Conditional%20Statements)/Usando%20a%20condicional%20switch.js)
+- [Usando um Operador Ternário](07%20-%20Estrutura%20Condicional%20(Conditional%20Statements)/Usando%20um%20Operador%20Tern%C3%A1rio.js)
+## 08 - Manipulação de Exceções (Exception Handling)
+
+- [Lançar uma exceção manualmente com objeto (throw statement)](08%20-%20Manipula%C3%A7%C3%A3o%20de%20Exce%C3%A7%C3%B5es%20(Exception%20Handling)/Lan%C3%A7ar%20uma%20exce%C3%A7%C3%A3o%20manualmente%20com%20objeto%20(throw%20statement).js)
+- [Lançar uma exceção manualmente simples (throw statement)](08%20-%20Manipula%C3%A7%C3%A3o%20de%20Exce%C3%A7%C3%B5es%20(Exception%20Handling)/Lan%C3%A7ar%20uma%20exce%C3%A7%C3%A3o%20manualmente%20simples%20(throw%20statement).js)
+- [Lançar uma exceção manualmente usando Error (throw statement)](08%20-%20Manipula%C3%A7%C3%A3o%20de%20Exce%C3%A7%C3%B5es%20(Exception%20Handling)/Lan%C3%A7ar%20uma%20exce%C3%A7%C3%A3o%20manualmente%20usando%20Error%20(throw%20statement).js)
+- [Testando objetos de erro](08%20-%20Manipula%C3%A7%C3%A3o%20de%20Exce%C3%A7%C3%B5es%20(Exception%20Handling)/Testando%20objetos%20de%20erro.js)
+- [Usando as declarações try, catch e finally](08%20-%20Manipula%C3%A7%C3%A3o%20de%20Exce%C3%A7%C3%B5es%20(Exception%20Handling)/Usando%20as%20declara%C3%A7%C3%B5es%20try,%20catch%20e%20finally.js)
 ## Classes
 
 - [Criando uma classe de Carro](Classes/Criando%20uma%20classe%20de%20Carro.js)
