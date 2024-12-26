@@ -1,8 +1,10 @@
-# javascript-samples
+# javascript-meu-guia-pratico
 
-<code>console.log('Hello world!');</code>
+### Como fazer um "Hello world" no JavaScript:
 
- ## 01 - Variáveis (Variables)
+<code>console.log("Hello world!");</code>
+
+## 01 - Variáveis (Variables)
 
 - [Declarando variável usando const](01%20-%20Vari%C3%A1veis%20(Variables)/Declarando%20vari%C3%A1vel%20usando%20const.js)
 - [Declarando variável usando let](01%20-%20Vari%C3%A1veis%20(Variables)/Declarando%20vari%C3%A1vel%20usando%20let.js)
