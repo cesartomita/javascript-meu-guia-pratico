@@ -31,12 +31,12 @@
 - [Igualdade com conversão de tipo](05%20-%20Compara%C3%A7%C3%B5es%20de%20Igualdade%20(Equality%20Comparisons)/Igualdade%20com%20convers%C3%A3o%20de%20tipo.js)
 - [Igualdade estrita](05%20-%20Compara%C3%A7%C3%B5es%20de%20Igualdade%20(Equality%20Comparisons)/Igualdade%20estrita.js)
 - [Usando operador Object.is](05%20-%20Compara%C3%A7%C3%B5es%20de%20Igualdade%20(Equality%20Comparisons)/Usando%20operador%20Object.is.js)
-## 06 - Loops e Iterações
+## 06 - Loops e Iterações (Loops and Iterations)
 
-- [Usando operador for com continue e break](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for%20com%20continue%20e%20break.js)
-- [Usando operador for of](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for%20of.js)
-- [Usando operador for](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20for.js)
-- [Usando operador while](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es/Usando%20operador%20while.js)
+- [Usando operador for com continue e break](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es%20(Loops%20and%20Iterations)/Usando%20operador%20for%20com%20continue%20e%20break.js)
+- [Usando operador for of](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es%20(Loops%20and%20Iterations)/Usando%20operador%20for%20of.js)
+- [Usando operador for](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es%20(Loops%20and%20Iterations)/Usando%20operador%20for.js)
+- [Usando operador while](06%20-%20Loops%20e%20Itera%C3%A7%C3%B5es%20(Loops%20and%20Iterations)/Usando%20operador%20while.js)
 ## 07 - Estrutura Condicional (Conditional Statements)
 
 - [Usando a condicional if-else](07%20-%20Estrutura%20Condicional%20(Conditional%20Statements)/Usando%20a%20condicional%20if-else.js)
@@ -50,6 +50,11 @@
 - [Lançar uma exceção manualmente usando Error (throw statement)](08%20-%20Manipula%C3%A7%C3%A3o%20de%20Exce%C3%A7%C3%B5es%20(Exception%20Handling)/Lan%C3%A7ar%20uma%20exce%C3%A7%C3%A3o%20manualmente%20usando%20Error%20(throw%20statement).js)
 - [Testando objetos de erro](08%20-%20Manipula%C3%A7%C3%A3o%20de%20Exce%C3%A7%C3%B5es%20(Exception%20Handling)/Testando%20objetos%20de%20erro.js)
 - [Usando as declarações try, catch e finally](08%20-%20Manipula%C3%A7%C3%A3o%20de%20Exce%C3%A7%C3%B5es%20(Exception%20Handling)/Usando%20as%20declara%C3%A7%C3%B5es%20try,%20catch%20e%20finally.js)
+## 09 - Expressões e Operadores (Expressions and Operators)
+
+- [Operador ternário - Exemplo 1](09%20-%20Express%C3%B5es%20e%20Operadores%20(Expressions%20and%20Operators)/Operador%20tern%C3%A1rio%20-%20Exemplo%201.js)
+- [Operador ternário - Exemplo 2](09%20-%20Express%C3%B5es%20e%20Operadores%20(Expressions%20and%20Operators)/Operador%20tern%C3%A1rio%20-%20Exemplo%202.js)
+- [Operador ternário - Exemplo 3](09%20-%20Express%C3%B5es%20e%20Operadores%20(Expressions%20and%20Operators)/Operador%20tern%C3%A1rio%20-%20Exemplo%203.js)
 ## Classes
 
 - [Criando uma classe de Carro](Classes/Criando%20uma%20classe%20de%20Carro.js)
