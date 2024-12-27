@@ -10,8 +10,6 @@ Minha intenção com este repositório é aprender novos conceitos e compartilha
 
 `git clone <url-do-repositorio>`
 
-Observação: Certifique-se de que o [Node.js](https://nodejs.org/en/download/package-manager) está instalado na sua máquina.
-
 ### Executando um arquivo:
 
 Sintaxe do comando para executar:
@@ -21,6 +19,8 @@ Sintaxe do comando para executar:
 Exemplo de como executar o aquivo "Hello World.js", dentro do diretório "00 - Hello World":
 
 `node ".\00 - Hello WorldHello World.js"`
+
+Observação: Certifique-se de que o [Node.js](https://nodejs.org/en/download/package-manager) está instalado na sua máquina.
 
 # Índice
 
