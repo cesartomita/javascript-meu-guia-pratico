@@ -4,9 +4,9 @@ Este guia apresenta scripts que ilustram alguns dos principais conceitos do Java
 
 Minha intenção com este repositório é aprender novos conceitos e compartilhar os conhecimentos adquiridos ao longo do meu progresso com essa linguagem.
 
-### Como fazer um "Hello world" no JavaScript:
+### Como imprimir "Hello, World!":
 
-`console.log("Hello world!");`
+`console.log("Hello, World!");`
 
 ## Como executar os comandos:
 
