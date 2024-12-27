@@ -1,8 +1,26 @@
-# javascript-meu-guia-pratico
+# JavaScript - Meu guia prático
+
+Este guia apresenta scripts que ilustram alguns dos principais conceitos do JavaScript. É ideal para iniciantes na programação ou para aqueles que buscam exemplos práticos para aprimorar seus conhecimentos e habilidades.
 
 ### Como fazer um "Hello world" no JavaScript:
 
-<code>console.log("Hello world!");</code>
+`console.log("Hello world!");`
+
+## Como executar os comandos:
+
+### Clone o repositório:
+
+`git clone https://github.com/cesartomita/javascript-meu-guia-pratico.git`
+
+Observação: Certifique-se de que o [Node.js](https://nodejs.org/en/download/package-manager) está instalado na sua máquina.
+
+### Como executar um script:
+
+No terminal, digite o comando:
+
+`node <nome-do-arquivo.js>`
+
+# Índice
 
 ## 01 - Variáveis (Variables)
 
