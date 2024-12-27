@@ -8,7 +8,7 @@ Minha intenção com este repositório é aprender novos conceitos e compartilha
 
 ### Clone o repositório:
 
-`git clone <url-do-repositorio>`
+`git clone https://github.com/cesartomita/javascript-meu-guia-pratico.git`
 
 ### Executando um arquivo:
 
