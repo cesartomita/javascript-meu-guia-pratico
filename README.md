@@ -2,6 +2,8 @@
 
 Este guia apresenta scripts que ilustram alguns dos principais conceitos do JavaScript. É ideal para iniciantes na programação ou para aqueles que buscam exemplos práticos para aprimorar seus conhecimentos e habilidades.
 
+Minha intenção com este repositório é aprender novos conceitos e compartilhar os conhecimentos adquiridos ao longo do meu progresso com essa linguagem.
+
 ### Como fazer um "Hello world" no JavaScript:
 
 `console.log("Hello world!");`
