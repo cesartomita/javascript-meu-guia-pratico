@@ -18,9 +18,13 @@ Observação: Certifique-se de que o [Node.js](https://nodejs.org/en/download/pa
 
 ### Como executar um script:
 
-No terminal, digite o comando:
+Sintaxe para executar um script:
 
 `node <nome-do-arquivo.js>`
+
+Exemplo:
+
+`node '.\00 - Hello World\Hello World.js'`
 
 # Índice
 
