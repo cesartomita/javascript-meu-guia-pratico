@@ -8,7 +8,7 @@ Minha intenção com este repositório é aprender novos conceitos e compartilha
 
 ### Clone o repositório:
 
-`git clone https://github.com/cesartomita/javascript-meu-guia-pratico.git`
+`git clone <url-do-repositorio>`
 
 Observação: Certifique-se de que o [Node.js](https://nodejs.org/en/download/package-manager) está instalado na sua máquina.
 
