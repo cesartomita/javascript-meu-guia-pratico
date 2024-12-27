@@ -4,8 +4,6 @@ Este guia apresenta scripts que ilustram alguns dos principais conceitos do Java
 
 Minha intenção com este repositório é aprender novos conceitos e compartilhar os conhecimentos adquiridos ao longo do meu progresso com essa linguagem.
 
-`console.log("Hello, World!");`
-
 ## Como executar os scripts:
 
 ### Clone o repositório:
